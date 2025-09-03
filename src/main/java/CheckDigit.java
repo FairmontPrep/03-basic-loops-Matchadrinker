@@ -36,7 +36,7 @@ public class CheckDigit {
      * getCheck returns 2
      */
     public static int getCheck(int num) {
-
+0
         return 0;
     }
 
